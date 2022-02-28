@@ -1,12 +1,14 @@
 /**
  * 
  */
-package com.usman.ciphers;
+package com.usman.test.Cipher;
 
 import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
+
+import com.usman.ciphers.VigenereCipher;
 
 /**
  * @author usman
