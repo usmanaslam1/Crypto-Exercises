@@ -20,6 +20,7 @@ public class VigenereCipher {
 		}
 
 	}
+	//hello
 
 	public static String getKey() {
 		return String.valueOf(vKey);
