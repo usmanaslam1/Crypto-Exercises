@@ -11,6 +11,7 @@ public class Vigenere {
                 String b="WORLD";
 
 
+                //Sad
                 /*System.out.println("Enter plaintext : ");
                 System.out.println("Enter key : ");
                 Scanner scan=new Scanner(System.in);*/
